@@ -1,1 +1,1 @@
-# Pantalla-de-Dise-o
+#diseño de pantalla
